@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width="304" alt="baomian2" src="https://github.com/three-three-three/three-three-three/assets/107102290/d03d3a40-97a6-437c-9a8e-9880a91d6c97">
+
+- 🎓 My name is Wang Er. I studied EE as an undergraduate, and I am going to UC Irvine to study for a master's degree in Network System.
+- 🪄 Professional wizard, amateur programmer.
+- 💻 Mainly Java.
+- 🐱 I have a cat, and you can see it above.
